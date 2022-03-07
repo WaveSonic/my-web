@@ -1,0 +1,139 @@
+.top {
+    background-color:#E4F9F5;
+    padding-top: 49px;
+    position:relative;
+}
+
+body{
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-family: 'Sacramento','Lobster', cursive;
+    font-size:5.5rem;
+    margin-top:50px;
+    margin-bottom:0px;
+    color:#66BFBF;
+    line-height:1.5;
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.footer-link{
+    color: #11999E;
+    margin-left:25px;
+}
+
+.hello{
+    margin: 20px 200px;
+}
+.p1{
+    font-size:2.5rem;
+    margin-top:0px;
+    color:#66BFBF;
+}
+
+.profile{
+    margin: auto auto 70px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height:2;
+}
+
+.HTML{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+
+.CSS{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+
+.bottom-container{
+    background:#66BFBF;
+    margin-top:30px;
+    line-height:2.5;
+    padding-top:30px;
+    position:relative;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.SHT{
+    color:#EAF6F6;
+}
+
+.pr{
+    color:#40514E;
+    width: 50%;
+    margin-left: 25%;
+}
+
+hr{
+    border-style: dotted;
+    width: 60px;
+    border-width: 10px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    color:gray;
+}
+
+.contact-me{
+    line-height:3;
+}
